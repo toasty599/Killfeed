@@ -1,0 +1,6 @@
+displayName = Enemy Killfeed
+author = Toasty
+version = 1.0
+hideCode = true
+hideResources = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
