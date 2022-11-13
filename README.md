@@ -1,5 +1,5 @@
 # Killfeed
-Adds a killfeed that shows whenever you or a teammate kills an enemy.
+Adds a killfeed that shows whenever you kill an enemy.
 
 Customizable:
 - 5 Different fonts.

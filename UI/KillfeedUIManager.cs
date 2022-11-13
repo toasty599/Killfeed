@@ -27,13 +27,13 @@ namespace Killfeed.UI
         internal static bool TrueMelee;
         internal static bool Critter;
 
-        private static List<string> NPCNameList = new List<string>() { };
+        private static List<string> NPCNameList = new() { };
 
-        private static List<string> PlayerNameList = new List<string>() { };
+        private static List<string> PlayerNameList = new() { };
 
-        private static List<string> DamageTypeList = new List<string>() { };
+        private static List<string> DamageTypeList = new() { };
 
-        private static List<int> UITimerList = new List<int>() { };
+        private static List<int> UITimerList = new() { };
 
         private static List<bool> TrueMeleeList = new() { };
 

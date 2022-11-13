@@ -36,8 +36,8 @@ namespace Killfeed.UI
         internal readonly static Color[] XColors = { new Color(114, 246, 251), new Color(229, 224, 228), new Color(231, 39, 52), new Color(114, 246, 251) };
         internal readonly static Color[] BaseColors = { new Color(32, 206, 69), new Color(230, 230, 230), new Color(207, 48, 32), new Color(93, 145, 244)};
 
-        public readonly static Color tf2ColorWhite = new Color(241, 233, 203);
-        public readonly static Color tf2ColorNonWhite = new Color(61, 57, 35);
+        public readonly static Color tf2ColorWhite = new(241, 233, 203);
+        public readonly static Color tf2ColorNonWhite = new(61, 57, 35);
         public static void LoadFonts()
         {
             // Dont do this on a dedicated server.
